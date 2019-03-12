@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using Northwind.Application.Customers.Queries.GetCustomersList;
 using System.Reflection;
 
 namespace Northwind.Application.Infrastructure.AutoMapper
